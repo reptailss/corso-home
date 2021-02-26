@@ -1,0 +1,31 @@
+.banner {
+    &__inner {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 -10px;
+    }
+
+    &__item{
+        margin: 0 10px;
+        width: calc(50% - 20px);
+    }
+    &__box {
+        padding-top: 13px;
+    }
+    &__subtitle {
+        transition: all .3s;
+    }
+    &__imgs {
+
+    }
+    &__img {
+        width: 100%;
+        max-width: 100%;
+    }
+    &__title {
+        margin-top: 3px;
+    }
+    &__subtitle {
+        margin-top: 7px;
+    }
+}

@@ -1,0 +1,19 @@
+.footer {
+    &__inner {
+        padding: 16px 20px 72px;
+        border-top: 2px solid #000;
+    }
+    &__list {
+        display: flex;
+        justify-content: space-between;
+    }
+    &__item {
+        max-width: 275px;
+    }
+    &__link {
+        font-size: 13px;
+        line-height: 17px;
+        text-transform: none;
+        margin-top: 9px;
+    }
+}
