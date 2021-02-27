@@ -2,13 +2,30 @@
     &__inner {
         padding: 16px 20px 72px;
         border-top: 2px solid #000;
+        @media (max-width: 1024px) {
+            padding: 20px 20px 25px;
+        }
     }
     &__list {
         display: flex;
         justify-content: space-between;
+        @media (max-width: 1024px) {
+            display: block;
+        }
     }
     &__item {
         max-width: 275px;
+        @media (max-width: 1024px) {
+            max-width: 100%;
+            text-align: center;
+            width: 100%;
+        }
+    }
+    &__item:not(:first-child){
+        @media (max-width: 1024px) {
+            margin-top: 25px;
+        }
+
     }
     &__link {
         font-size: 13px;
