@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b58831c6-fa10-4643-85f8-45a7bed31bad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-corso-como_gulp/src/css/lib/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/10-corso-como_gulp/src/css/lib/_base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-corso-como_gulp/temp/sass/lib/_base.sass" beforeDir="false" afterPath="$PROJECT_DIR$/10-corso-como_gulp/temp/sass/lib/_base.sass" afterDir="false" />
-    </list>
+    <list default="true" id="b58831c6-fa10-4643-85f8-45a7bed31bad" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,17 +24,26 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_slide.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="23" selection-end-column="13" />
+                <state relative-caret-position="160">
+                  <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_news.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="339">
+                  <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/10-corso-como_gulp/src/css/_global.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="435">
-                  <caret line="87" column="22" lean-forward="true" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
+                <state relative-caret-position="176">
+                  <caret line="149" column="24" selection-start-line="149" selection-start-column="24" selection-end-line="149" selection-end-column="24" />
                 </state>
               </provider>
             </entry>
@@ -46,17 +51,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_banner.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+                <state relative-caret-position="352">
+                  <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_form.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="608">
-                  <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+                <state relative-caret-position="496">
+                  <caret line="106" column="31" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="31" />
                 </state>
               </provider>
             </entry>
@@ -103,13 +108,13 @@
         <option value="$PROJECT_DIR$/10-corso-como_gulp/src/css/lib/_base.scss" />
         <option value="$PROJECT_DIR$/10-corso-como_gulp/src/css/lib/_rem.scss" />
         <option value="$PROJECT_DIR$/10-corso-como_gulp/src/css/parts/_footer.scss" />
-        <option value="$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_slide.scss" />
         <option value="$PROJECT_DIR$/10-corso-como_gulp/src/css/parts/_header.scss" />
-        <option value="$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_banner.scss" />
-        <option value="$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_news.scss" />
-        <option value="$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_form.scss" />
         <option value="$PROJECT_DIR$/10-corso-como_gulp/src/css/lib/_media.scss" />
+        <option value="$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_banner.scss" />
+        <option value="$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_slide.scss" />
+        <option value="$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_news.scss" />
         <option value="$PROJECT_DIR$/10-corso-como_gulp/src/css/_global.scss" />
+        <option value="$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_form.scss" />
       </list>
     </option>
   </component>
@@ -259,12 +264,12 @@
       <option name="presentableId" value="Default" />
       <updated>1614347599274</updated>
       <workItem from="1614347602127" duration="15949000" />
-      <workItem from="1614419813761" duration="7462000" />
+      <workItem from="1614419813761" duration="8442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23411000" />
+    <option name="totallyTimeSpent" value="24391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -396,24 +401,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_banner.scss">
+    <entry file="file://$PROJECT_DIR$/10-corso-como_gulp/src/css/lib/_media.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="1904">
+          <caret line="119" column="3" lean-forward="true" selection-start-line="119" selection-start-column="3" selection-end-line="119" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_news.scss">
+    <entry file="file://$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_banner.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="803">
-          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+        <state relative-caret-position="352">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_slide.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="160">
+          <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_news.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -424,24 +436,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_form.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10-corso-como_gulp/src/css/lib/_media.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1904">
-          <caret line="119" column="3" lean-forward="true" selection-start-line="119" selection-start-column="3" selection-end-line="119" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/10-corso-como_gulp/src/css/_global.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="87" column="22" lean-forward="true" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
+        <state relative-caret-position="176">
+          <caret line="149" column="24" selection-start-line="149" selection-start-column="24" selection-end-line="149" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-corso-como_gulp/src/css/blocks/_form.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="106" column="31" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="31" />
         </state>
       </provider>
     </entry>

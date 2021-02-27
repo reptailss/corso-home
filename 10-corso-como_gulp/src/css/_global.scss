@@ -22,6 +22,7 @@ body {
   }
   @media (max-width: 768px) {
     max-width: 720px;
+    padding: 0 15px;
   }
   @media (max-width: 640px) {
     max-width: 100%
@@ -145,6 +146,9 @@ button {
 
 .pb-57 {
   padding-bottom: 57px;
+  @media (max-width: 1024px) {
+    padding-bottom: 20px;
+  }
 }
 
 .pl-20 {

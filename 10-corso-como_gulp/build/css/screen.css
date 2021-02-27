@@ -1931,6 +1931,10 @@ button {
     font-size: 14px;
   }
 
+  .pb-57 {
+    padding-bottom: 20px;
+  }
+
   .header {
     padding: 0;
   }
@@ -2072,11 +2076,16 @@ button {
     left: auto !important;
     top: 23px !important;
   }
+
+  .news-form__input {
+    margin-top: 3px;
+  }
 }
 
 @media (max-width: 768px) {
   .container {
     max-width: 720px;
+    padding: 0 15px;
   }
 }
 
@@ -2150,8 +2159,14 @@ button {
     font-size: 20px;
   }
 
+  .slide-top__container {
+    padding: 0;
+    margin: 0 auto;
+  }
+
   .banner__inner {
     display: block;
+    margin: 0 -15px;
   }
 
   .banner__item {
@@ -2159,8 +2174,16 @@ button {
     margin: 0;
   }
 
+  .banner__box {
+    padding: 13px 15px;
+  }
+
   .news__item.top {
     width: 100%;
+  }
+
+  .news__nav {
+    padding: 0;
   }
 
   .news__nav-full {

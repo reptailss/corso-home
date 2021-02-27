@@ -5,6 +5,7 @@
         margin: 0 -10px;
         @media (max-width: 500px) {
             display: block;
+            margin: 0 -15px;
         }
     }
 
@@ -18,6 +19,9 @@
     }
     &__box {
         padding-top: 13px;
+        @media (max-width: 500px) {
+            padding: 13px 15px;
+        }
     }
     &__subtitle {
         transition: all .3s;
